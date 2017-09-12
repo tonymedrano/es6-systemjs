@@ -1,2 +1,2 @@
 # es6-systemjs
-Developing Javascript with SystemJS on a quick start environment
+Developing Javascript Apps with SystemJS on a quick start environment

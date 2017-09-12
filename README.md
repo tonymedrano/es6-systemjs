@@ -1,2 +1,6 @@
 # es6-systemjs
-Developing Javascript Apps with SystemJS on a quick start environment
+Developing with Javascript ES2015 (Starter project) using SystemJS & Traceur environment.
+
+# Setting
+
+npm i and run it on favorite server.

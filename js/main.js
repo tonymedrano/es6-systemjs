@@ -1,12 +1,11 @@
-class Main {
-    constructor (name) {
-        this.name = name
+import { God } from './god.js'
+
+class Main extends God {
+    constructor(name) {
+        super(name)
     }
-    run () {
-        let div = document.createElement("div"); 
-        let content = document.createTextNode(`Running ${ this.name }...`); 
-        div.appendChild(content);
-        document.body.appendChild(div)
+    run() {
+        super.run()
     }
 }
 

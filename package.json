@@ -4,7 +4,7 @@
   "description": "javascript environment using systemjs for es2015",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "god": "lite-server"
   },
   "repository": {
     "type": "git",

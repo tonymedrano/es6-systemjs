@@ -1,7 +1,7 @@
 # Run God Stater project series
 
 # es6-systemjs
-Developing with Javascript ES2015 (Starter project) using SystemJS & Traceur environment.
+Developing with Javascript ES2015 (Starter project) using SystemJS & Traceur as environment.
 
 # Setting
 npm i lite-server -g  
